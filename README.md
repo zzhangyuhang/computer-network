@@ -4,5 +4,5 @@
 
 ## 第一章:[网络概述](https://github.com/zzhangyuhang/computer-network/blob/master/1.网络概述.md)
 
-## 第二章:[通信概述](https://github.com/zzhangyuhang/computer-network/blob/master/1.通信概述.md)
+## 第二章:[通信概述](https://github.com/zzhangyuhang/computer-network/blob/master/2.通信概述.md)
 
