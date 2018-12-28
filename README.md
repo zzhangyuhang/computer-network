@@ -11,3 +11,5 @@
 ## 第四章:[网络-主机层](https://github.com/zzhangyuhang/computer-network/blob/master/4.网络-主机层.md)
 
 ## 第五章:[网络层](https://github.com/zzhangyuhang/computer-network/blob/master/5.网络层.md)
+
+## 第六章:[网络层协议](https://github.com/zzhangyuhang/computer-network/blob/master/6.网络层协议.md)
