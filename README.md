@@ -16,4 +16,4 @@
 
 ## 第七章:[传输层](https://github.com/zzhangyuhang/computer-network/blob/master/7.传输层.md)
 
-## 第八章:[传输层](https://github.com/zzhangyuhang/computer-network/blob/master/8.传输层协议.md)
+## 第八章:[传输层协议](https://github.com/zzhangyuhang/computer-network/blob/master/8.传输层协议.md)
