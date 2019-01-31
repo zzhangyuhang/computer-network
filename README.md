@@ -1,6 +1,6 @@
 # 计算机网络
 
-前言:这是我观看北大严伟教授的计算机网络的慕课时候记录的笔记.
+**前言:这是我观看北大严伟教授的计算机网络的慕课时候记录的笔记.**
 
 ## 第一章:[网络概述](https://github.com/zzhangyuhang/computer-network/blob/master/1.网络概述.md)
 
@@ -22,4 +22,4 @@
 
 ## 第十章:[网络安全](https://github.com/zzhangyuhang/computer-network/blob/master/10.网络安全.md)
 
-### 课件:[有需要请点击这里查看]()
+### <div style="text-align: right"> 课件:[点击查看](https://github.com/zzhangyuhang/computer-network/tree/master/courseware)</div>
