@@ -22,4 +22,8 @@
 
 ## 第十章:[网络安全](https://github.com/zzhangyuhang/computer-network/blob/master/10.网络安全.md)
 
+## 延伸阅读:[图解HTTP](https://github.com/zzhangyuhang/computer-network/blob/master/0.图解HTTP.md)
+
 ### <div style="text-align: right"> 课件:[点击查看](https://github.com/zzhangyuhang/computer-network/tree/master/courseware)</div>
+
+### <div style="text-align: right"> 电子书:[点击查看](https://github.com/zzhangyuhang/computer-network/tree/master/courseware/图解HTTP.pdf)</div>
